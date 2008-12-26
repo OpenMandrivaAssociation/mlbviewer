@@ -1,6 +1,6 @@
 Name:		mlbviewer
 Summary:	mlb.tv viewing tools
-Version:	0.1alpha7
+Version:	0.1alpha8
 Release:	%{mkrel 1}
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 URL:		http://www.eds.org/~straycat/mlblinux.php
