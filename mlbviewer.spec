@@ -39,4 +39,4 @@ mv %{buildroot}%{_bindir}/%{name}.py %{buildroot}%{_bindir}/%{name}
 %doc README
 %{_bindir}/%{name}
 %{py_puresitedir}/MLBviewer
-%{py_puresitedir}/%{name}-0.1alpha6svn-py%{pyver}.egg-info
+%{py_puresitedir}/%{name}-%{version}-py%{pyver}.egg-info
