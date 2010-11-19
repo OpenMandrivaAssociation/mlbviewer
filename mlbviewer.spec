@@ -24,8 +24,6 @@ mlb.tv: you will require a login and password from mlb.com.
 %prep
 %setup -q
 
-%build
-
 %install
 %__rm -rf %{buildroot}
 %__python setup.py install --root=%{buildroot} --compile --optimize=2
