@@ -3,7 +3,7 @@ Summary:	mlb.tv viewing tools
 Version:	0.1alpha8
 Release:	%{mkrel 2}
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
-URL:		http://www.eds.org/~straycat/mlblinux.php
+URL:		https://www.eds.org/~straycat/mlblinux.php
 Group:		Video
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License:	GPLv2
